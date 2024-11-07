@@ -1,2 +1,11 @@
-# sqrtox-website
-This is the site where I put my blog and other information.
+# 荒らし連合軍AARR
+
+### 荒らし連合軍とは
+feederを荒らす勢力から派生した多くの技術者が集まるdiscord荒らし団体です
+
+### 活動方針
+荒らし連合軍は組織形態ではなくコミュニティに必要な自由性や自主性を重要視し公平と平等をテーマにした荒らし連合軍のシンボルの下活動しています
+
+
+### 荒らし連合軍の敵対勢力
+荒らし連合軍
