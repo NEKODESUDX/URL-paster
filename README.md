@@ -1,16 +1,18 @@
-# 荒らし連合軍 (AARR)
-
-荒らし連合軍（AARR） とは、feederを荒らす勢力から派生した多くの技術者が集まるDiscord荒らし団体です
-
-# 活動方針
-荒らし連合軍は組織形態ではなく、コミュニティに必要な自由性や自主性を重要視しています。公平と平等をテーマに掲げた荒らし連合軍のシンボルの下で活動しています。
-
-# システム
-荒らし連合軍は、最先端の自動依頼やDM spambotなど、誰でも利用可能な荒らし環境を提供することで、荒らし活動に貢献しています。
-
-# 敵対勢力
-荒らし連合軍の主な敵対勢力は、ワッパステイ（松村太陽）主席が運営する通称 ワッパ共栄圏 です。松村太陽は荒らし連合軍に後から参加したにも関わらず、荒らし連合軍の所有権を主張しています。これは「荒らしとは誰の物でも無い概念である」という荒らし連合軍の方針と主義に反するため、多くの荒らし達から嫌われています。
-
-# URL
-興味があったら是非参加ください
-https://discord.gg/DPmPdpcNqs　
+# ①[webhookツール]
+(https://hatchingchick.github.io/discord-webhook/ ) 
+# ②[鯖監視]
+(https://hatchingchick.github.io/discord-server-/　) 
+# ③[web tool]
+(https://hatchingchick.github.io/aarr-troll-tool/) 
+# ④[ニックネームコピペ]
+(https://symbl.cc/en/17B5/) 
+# ⑤[荒Bot1号機]
+(https://discord.com/oauth2/authorize?client_id=1222037864737411082&permissions=8&scope=bot+applications.commands) 
+# ⑥[荒Bot2号機(canary)]
+(https://discord.com/oauth2/authorize?client_id=1222126891683680357&permissions=8&scope=bot+applications.commands) 
+# ⑦[AARR製爆音ブラクラ]
+(https://nekodesudx.github.io/tools/ ) 
+# ⑧[荒ツール海外製]
+(https://github.com/YABOIpy/GoDm/releases) 
+# ⑨AARRポリゴンgif 
+https://i.imgur.com/NbBGFcf.mp4　https://i.imgur.com/pY7EpwN.mp4  
